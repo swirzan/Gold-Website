@@ -1,4 +1,4 @@
 # Gold-Website
 
-## Website Preveiw
+## Website Preview
 ![website preveiw](/assets/imgs/website-preveiw.PNG)
