@@ -134,3 +134,7 @@ body {
 .dis-2 {
   margin-top: -15px;
 }
+
+h2::first-letter {
+  font-size: 35px;
+}
