@@ -28,7 +28,24 @@ body {
   
 }
 
+.image {
+  width:500px;
+  max-width: 500px;
+}
 
+th {
+  background-color: rgb(255, 153, 51);;
+
+}
+
+.tdata {
+  background-color: grey;
+}
+
+.tab {
+  background-color: rgb(255, 153, 51);
+  border: rgb(230, 230, 230) 2px solid;
+}
 /* body {
   padding: 0px;
   margin: 0px;
