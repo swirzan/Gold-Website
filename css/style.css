@@ -11,8 +11,16 @@ body {
 .heading {
   background-color: rgb(255, 255, 204);
   color: #5E3300;
+  padding: 18px;
+  font-size: 20px;
   
 }
+
+.hea {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 14px;
+} 
 
 /* .extra {
   margin-top: -px;
@@ -33,19 +41,101 @@ body {
   max-width: 500px;
 }
 
-th {
-  background-color: rgb(255, 153, 51);;
-
-}
-
-.tdata {
-  background-color: grey;
-}
-
 .tab {
-  background-color: rgb(255, 153, 51);
-  border: rgb(230, 230, 230) 2px solid;
+  padding-left: 15%;
+  padding-right: 15%;
+  font-size: 13px;
+ 
 }
+
+.tabs {
+  padding-left: 25%;
+  padding-right: 15%;
+  font-size: 13px;
+ 
+}
+
+td {
+  background-color: #e2e1e1;
+  text-align: center;
+ 
+}
+
+th {
+ background-color:rgb(255, 153, 51);
+ text-align: center;
+}
+
+table {
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 2px;
+}
+
+.left {
+  text-align: left;
+}
+
+.imgs {
+  height: 383px;
+  width: 250px;
+  
+}
+
+h5 {
+  color: #5E3300;
+  font-family: Tahoma, Verdana, Arial;
+  font-weight: bold;
+}
+
+h2 
+{
+  font-size: 18px;
+  line-height: 19px;
+  font-weight: bold;
+  color: #5E3300;
+  text-align: center;
+}
+
+.dis {
+  font-size: 10px;
+}
+.dic {
+  margin-bottom: 0;
+  font-size: 13px;
+  font-weight: bold;
+}
+.pa {
+  font-size: 12px;
+}
+
+/* .tab {
+  /* padding: 50px;
+  margin-left: 70px; */
+  /* margin-right: 70px; */
+  /* font-size: smaller;
+  border: gray;
+  border-spacing: 2px;
+}
+
+.thead {
+  background-color: rgb(255, 153, 51);
+  color: #333333;
+ margin: 40%;
+ border: 2px solid white;
+}
+
+td, tr{
+  background-color: #e9e9e9;
+  border: 2px solid white;
+  border-spacing: 2px;
+  margin: 20px;
+}
+
+.maintab {
+  
+} */
+
 /* body {
   padding: 0px;
   margin: 0px;
