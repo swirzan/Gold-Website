@@ -28,6 +28,7 @@ body {
 
 .anchor {
   text-decoration: underline;
+  font-size: 95%;
 } 
 
 .anchor:hover {
@@ -90,6 +91,11 @@ h5 {
 
 h2 
 {
+  color: #5E3300;
+  text-align: center;
+}
+
+.head {
   font-size: 18px;
   line-height: 19px;
   font-weight: bold;
